@@ -40,7 +40,7 @@ In order to find the global optimum, every feasible solution must be represented
 - Small alterations in the underlying structure of an object cause small changes in the object’s behavior.
 - **Small** **change** to the **cause** —> **small** **change** of the **effect**.
 - Without this principle no continuity would be ensured in the evolutionary process
-- Studied in [[evolution strategies]] and [[genetic programming]], e.g., Bäck and Schwefel (1993), Rosca and Ballard (1995), but crucial in EC in general
+- Studied in [[Evolution Strategies]] and [[Genetic Programming]], e.g., Bäck and Schwefel (1993), Rosca and Ballard (1995), but crucial in EC in general
 
 ### Good representations 
 - Small changes to a genotype induce small changes in the corresponding phenotypes

@@ -54,11 +54,14 @@ Compare GA scheme using crossover AND mutation sequentially (be it probabilistic
 Bloat = "survival of the fattest", i.e., the tree sizes in the population are increasing over time. Ongoing research and debate about the reasons. Needs countermeasures, e.g., prohibiting variation operators that would deliver "too big" children; parsimony pressure: penalty for being oversized.
 
 ## Example Symbolic Regression
-Given some points in R2, $(x_1, y_1), … , (x_n, y_n)$, find function $f(x)$ s.t. $\forall i = 1, …, n : f(x_i) = y_i$. Possible GP solution:
-- Representation by F = {+, -, /, sin, cos}, T = R ∪ {x}
-- Fitness is the error $$err(f)=\sum_{i=1}^{n}{(f(x_i)-y_i)^2}$$
+Given some points in R2, $(x_1, y_1), … , (x_n, y_n)$, find function $f(x)$ s.t. $\forall i = 1, …, n : f(x_i) = y_i$. 
+
+Possible GP solution:
+- Representation by $F = \set{+, -, /, sin, cos}$, $T = R ∪ {x}$
+- Fitness is the error 
+$$err(f)=\sum_{i=1}^{n}{(f(x_i)-y_i)^2}$$
 - All operators standard
-- Population size = 1000, ramped half-half initialisation
+- Population size = 1000, ramped half-half initialization
 - Termination: n "hits" or 50000 fitness evaluations reached (where "hit" is if $| f(x_i) – y_i | < 0.0001$)
 ## Summary
 Evolutionary approach to modelling and machine learning works for learning behavioural strategies/policies as well, e.g., for game playing strategies, robot controllers, agents. Results (trees) are readable – unlike neural networks – but the big size can make it impractical. Can require large populations and many generations; hence needs much time and/or powerful computing hardware. Has well-documented impressive achievements.

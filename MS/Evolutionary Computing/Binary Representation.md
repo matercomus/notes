@@ -47,7 +47,7 @@
 	- it depends on the problem, but
 	- in general, it is good to have both
 	- both have another role
-	- there are mutation-only-EAs (some [[evolution strategies]]), as well as xover-only-EAs (some [[genetic programming]])
+	- there are mutation-only-EAs (some [[Evolution Strategies]]), as well as xover-only-EAs (some [[Genetic Programming]])
 
 **Exploration**: Discovering promising areas in the search space, i.e. gaining information on the problem
 **Exploitation**: Optimizing within a promising area, i.e. using information
