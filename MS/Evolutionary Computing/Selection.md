@@ -186,6 +186,7 @@ Fitness-based survivor selection is a method used in genetic algorithms where th
 
 - **Round-robin Tournament**: In this approach, $P$ is the set of $μ$ parents, $O$ is the set of $λ$ offspring. Pairwise competitions in round-robin format are conducted where each solution $x$ from $P \cup O$ is compared with $q$ other randomly chosen solutions. For each comparison, a "win" is assigned to $x$ if it is better than its opponent. The $μ$ solutions with the greatest number of wins are selected to be parents of the next generation. The parameter $q$ allows tuning selection pressure. Typically, $q = 10$.
 
+#### Special Selection Strategies
 
 - **$(\mu,\lambda)$-selection a.k.a. "Comma Strategy"**: This approach is based on the set of children only ($\lambda > \mu$). The best $\mu$ out of $\lambda$ are chosen.
 

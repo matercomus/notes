@@ -5,7 +5,6 @@
 [[Multimodality]]
 [[Approaches for Preserving Diversity]]
 [[Different spaces]]
-
 # Important Points
 
 ## Selection
