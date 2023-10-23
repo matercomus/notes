@@ -7,14 +7,14 @@
 
 When combining the two, note that constraint problems can be transformed into optimization problems.
 
-|                  | Objective Function: Yes | Objective Function: No          |
+|                  | objective function: yes | objective function: no          |
 | ---------------- | ----------------------- | ------------------------------- |
-| Constraints: Yes | COP                     | CSP |
-| Constraints: No  | FOP                     | NP                              |
+| constraints: yes | cop                     | csp |
+| constraints: no  | fop                     | np                              |
 
-- **COP**: Constrained Optimisation Problem
-- **FOP**: Free Optimization Problem
-- **CSP**: Constraint Satisfaction Problem
-- **NP**: No Problem
+- **cop**: constrained optimisation problem
+- **fop**: free optimization problem
+- **csp**: constraint satisfaction problem
+- **np**: no problem
 
 Note: constraint problems can be transformed into optimization problems
