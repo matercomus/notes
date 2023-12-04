@@ -1,0 +1,51 @@
+# Call w/ Johny and Mio
+
+- przepraszam za brak kontkatu
+	- zapisywalem zeby zadzwonic
+	- zawsze potem cos wypadalo
+	- potem zapominalem, znowu zapisywalem
+	- i od nowa, bledne kolo
+	- wiec uznalem ze napisze bo latwiej
+- praca PK
+	- 10 dni non stop
+	- zapierdol ale ok
+	- gibon z córką szefa
+	- 2200 zarobione
+- Wypad do Florencji
+	- Super z kuzynami
+	- Super ekipka
+	- Florencja meha sliczna
+	- Dojebany Art
+	- Fun facty od Dawida i Aleksa
+	- Super szamka (dobry timeinng z jedzeniem miesa)
+	- Spacerki, kanjpy, bary, plaza w viareggio
+	- Spanie na lotnisku w obie strony
+- W Amsterdamie przed masterem
+	- Uro
+		- caly dzien na sciance
+		- stek na sniadanie
+		- potem bilardzik w barze
+		- potem melo z siorka i jej psapsi
+- Master
+	- mega spoko
+	- ciekawe zajecia
+	- duzo bardziej zaawansowane
+	- fajne, praktyczne porjekty
+	- Opor duzo inforacji
+	- teraz jescze wiecej bedzie
+	- ale bd parcowac z robotami itp wiec zajawka
+	- ludzie spoczko, narazie tylko osoby z grup projektowych
+	- pare osob przez nich ale nie jakos bardzo
+	- klasycznie ominalem intro week jak debil
+	- ale jest sporo roznych eventow wiec sie nie martwie
+- Sport
+	- Reuglarna boulderownia
+	- Tennis
+	- proba padel
+- Socializacja
+	- troche za malo ale git
+	- co weekend mniej wiecej z the boiz
+	- z damiankiem podobnie
+- Melo
+	- troche za czesto flex
+	- troche za duzo na barze wydaje

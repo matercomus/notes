@@ -1,0 +1,5 @@
+- [ ] wheelchair motor
+- [x] pepper greinder
+- [ ] books
+- [ ] lego 7+ male zestawy
+- [ ] 

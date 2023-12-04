@@ -1,0 +1,5 @@
+- [x] micro ass
+- [ ] reading bf lecture
+- [ ] Watch tutorials (confluence, tut. nao robot smth)
+- [ ] Read Docs for NAO
+- [ ] Familiarize with SIR Framework

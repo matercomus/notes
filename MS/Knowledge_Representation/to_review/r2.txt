@@ -1,0 +1,7 @@
+The Ontology: The ontology you've created is of very high quality. It's clear that a lot of thought and effort went into its design and implementation. The sushi restaurant theme is unique and interesting, and the ontology is well-structured and comprehensive, making it easy to understand and navigate.
+
+The EL Reasoner: The description of the implemented EL reasoner is excellent. It's detailed, clear, and provides a good understanding of how the reasoner works. The use of Python code to illustrate the implementation is particularly helpful. The discussion on the limitations of the EL reasoner and the comparison with other reasoners like ELK and HermiT provides valuable insights.
+
+The Creative Part: The creative aspect of the assignment is outstanding. The choice of a sushi restaurant for the ontology is innovative and engaging. The experiment comparing the performance of different reasoners is well-designed and executed, providing valuable data and insights.
+
+Overall merit: Overall, this assignment is of exceptional quality. It demonstrates a deep understanding of knowledge representation, ontology design, and reasoning algorithms. The report is well-written, the ontology and reasoner are well-implemented, and the experiment is well-conducted. Great job!

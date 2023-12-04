@@ -1,0 +1,7 @@
+1. The Ontology: The ontology is of very high quality. It is comprehensive, well-structured, and accurately represents the domain of an Indonesian kitchen. The use of Description Logic (DL) enhances the expressivity and flexibility of the ontology, making it a robust tool for knowledge representation.
+
+2. The EL Reasoner: The implementation of the EL reasoner is excellent. It is well-explained, and the use of the EL subset of Description Logics ensures a balance between expressivity and computational efficiency. The pseudocode provided gives a clear understanding of the reasoning process.
+
+3. The Creative Part: The creative aspect of the assignment is commendable. The choice of an Indonesian kitchen as the domain is unique and interesting. The way the ontology is used to answer specific queries about meals, ingredients, and cooking styles is innovative and demonstrates a practical application of the ontology.
+
+4. Overall Merit: Overall, the assignment is outstanding. It demonstrates a deep understanding of ontologies and Description Logics, and their application in creating intelligent systems. The comparison of HermiT and ELK reasoners provides valuable insights into the trade-offs between expressivity and computational efficiency. Great job!

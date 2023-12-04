@@ -1,7 +1,7 @@
 ## Representation, mutation, recombination
 
 ### Main Topics
-- Role of [[representation]] and variation 
+- Role of [[Representation]] and variation 
 	- [[Representation#Two sides of representation|Two sides of representation]]
 	- [[Representation#Representation (dis)continuity|Representation (dis)continuity]]
 	- [[Representation#Strong causality principle|Strong causality principle]]

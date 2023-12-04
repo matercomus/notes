@@ -1,0 +1,1 @@
+- prepare note before lectures with bing and the add to that during lectures.
