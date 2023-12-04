@@ -1,0 +1,7 @@
+- [ ] Read a chapter/fragment of currently read book
+- [ ] Wash face
+- [ ] Brush teeth
+- [ ] Wash feet
+- [ ] Make plan for next day
+- [ ] Prepare cloths for next day
+- [ ] Prepare bag for next day

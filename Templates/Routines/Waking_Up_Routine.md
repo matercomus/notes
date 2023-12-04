@@ -1,0 +1,6 @@
+- [ ] Shower
+- [ ] Deodorant
+- [ ] Breakfast
+- [ ] Brush teeth
+- [ ] Face Moisturizer
+- [ ] Cologne

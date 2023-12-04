@@ -8,7 +8,7 @@ tags:: [[+Daily Notes]]
 << [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').subtract(1, 'd').format('YYYY-MM-DD-dddd') %>|Yesterday]] | [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').add(1, 'd').format('YYYY-MM-DD-dddd') %>|Tomorrow]] >>
 
 ---
-### 📅 Daily Questions
+## 📅 Daily Questions
 ##### 🌜 Last night, after work, I...
 - 
 
@@ -16,14 +16,14 @@ tags:: [[+Daily Notes]]
 - 
 
 ##### 🚀 One+ thing I plan to accomplish today is...
-- [ ] 
+- [ ] <% tp.file.cursor() %>
 
 ##### 👎 One thing I'm struggling with today is...
 - 
 
 ---
-# 📝 Notes
-- <% tp.file.cursor() %>
+## 📝 Notes
+- 
 
 ---
 ### Notes created today
@@ -35,3 +35,11 @@ List FROM "" WHERE file.cday = date("<% moment(tp.file.title,'YYYY-MM-DD').forma
 ```dataview
 List FROM "" WHERE file.mday = date("<% moment(tp.file.title,'YYYY-MM-DD').format('YYYY-MM-DD') %>") SORT file.mtime asc
 ```
+
+---
+## Routines
+### Start
+<% tp.file.include("[[Templates/Routines/Waking_Up_Routine.md]]") %>
+
+### 🌜 Bed-time
+<% tp.file.include("[[Templates/Routines/Before_Bed_Routine_Template]]") %>
